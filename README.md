@@ -1,7 +1,7 @@
 ## DEVICE - вёрстка страницы 
 ---
 
-*Использованные знания:*
+*Использованные скиллы:*
 
 * Вёрстка
   - Семантика
@@ -11,7 +11,12 @@
 * Кросс-браузерность
 * Веб-шрифты
 
-**макет от HTMLAcademy*
 
 ----
 
+Previous project: <a href = "https://github.com/disorientationinspace/barbershop">Barbershop</a> <br>
+Next project: <a href = "https://github.com/disorientationinspace/HTMLAcademy__pink">Pink</a>
+
+----
+
+**макет от <a href = "https://htmlacademyru">HTML Academy</a>*
